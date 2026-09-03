@@ -1,0 +1,31 @@
+# Fully Modular Farm Run Framework (Herbs,trees,flowers,allotments,bushes) with Shortest Path & Chat Alerts
+
+A plug-and-play alert-group designed for complete flexibility. 
+
+Unlike fixed-path setups, this framework features **interconnected sub-groups for every patch location**. Since all alerts start disabled, you simply toggle on your preferred destination routes before or during your run to build a completely custom, adaptable path.
+
+---
+
+##  Key Features
+
+* **True Point-to-Point Modular Routes:** Every patch location alert-group contains routing triggers to all other patches.
+* **Flexible Start & Order:** Pick your starting patch, enable only your desired destinations, and run them in whatever order fits your needs.
+* **Visual Shortest Path Lines:** Automatically plots path lines to your chosen next destination upon arrival.
+* **Game Chat Notifications:** Clear chatbox prompts guiding your next move as soon as you step foot on a patch location.
+
+---
+
+##  Farming Patch Groups Breakdown
+
+Enable or disable individual Patch groups based on your account progression:
+
+> **How it works:**
+> 1. Arriving at **Ardougne bush** for example, open the **"Bush patches"** Alert-Group and the **"Ardougne"**  subgroup and enable your next target (example **"To fruit tree patch>To Lletya"**).
+> 2. Once at **Lletya Patch**, open the **"Fruit tree patches>Lleta"** Alert-Group and enable your next destination to keep the chain going.
+
+---
+
+## ⚠️ Important Usage Notes
+
+1. **Toggle Off When Done:** Toggle off the main **"Ultimate farm run"** when not actively farming so high-traffic areas (such as the Farming Guild) don't trigger unwanted pathing lines during daily activities. *(Alternatively, you can make the Farming Guild your final destination since that is most likely to get triggered when doing farming contracts)*
+2. **Shortest Path Plugin Required:** Ensure the **Shortest Path** plugin is installed and enabled in your RuneLite client so Watchdog can render the pathing lines.
